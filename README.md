@@ -1,94 +1,102 @@
-<div align="center" width="50"> 
+<!--
+Inspired by SP-XD (https://github.com/SP-XD)
+Customized for Amr Mamdoh
+-->
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=amrmamdohmahmod115-art&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famrmamdohmahmod115-art&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
+<div align="center">
+  <img src="images/hellocoders_amr.gif" alt="Hello <coders/> I'm Amr Mamdoh" width="60%"/>  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 </div>
 
 ---
 
-## 👋 Hi there, I’m **Amr Mamdoh**  
-### 💡 *Embedded Systems, Automation Systems & Machine Learning / Data Science Engineer*
-
-🎯 Passionate about combining **hardware intelligence with data-driven automation**.  
-I build smart embedded solutions, automate control systems, and design AI models that make systems think, learn, and adapt.
+<h2 align="center">👋 Hey there! I'm Amr Mamdoh</h2>
+<h4 align="center">Embedded Systems & Automation Systems Engineer | Machine Learning Data Science Engineer</h4>
 
 ---
 
-### 📫 **Contact Me**
-<p align="center">
-  <a href="mailto:amrmamdohmahmod115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/amr-mamdoh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/amrmamdohmahmod115-art"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+### 👨‍💻 About Me  
+Motivated and resourceful **Junior Engineer** with a strong academic background in **Embedded Systems, Automation Engineering, and Data Science**.  
+I specialize in **designing, developing, and optimizing** both intelligent automation and AI-driven systems.  
+
+- 🧠 Expertise in **C, C++, Python**, and **RTOS (FreeRTOS)**.  
+- ⚙️ Skilled in **PLC, HMI**, and **Schneider Electric Panel Design (EPLAN, Easy Prisma, Ecodial)**.  
+- 🤖 Experienced with **Machine Learning**, **Deep Learning**, and **Data Science pipelines** using TensorFlow, PyTorch, and Scikit-learn.  
+- 🔌 Hands-on with **ARM Cortex, STM32, AVR, and Arduino**.  
+- 📡 Knowledge of communication standards like **I2C, SPI, UART, CAN, MQTT, Modbus, Bluetooth, Zigbee, and TCP/IP**.  
+- 💾 Proficient in **SQL, MySQL, PostgreSQL**, and **MongoDB**.  
+- ☁️ Experienced with **AWS, Google Cloud (Vertex AI), and Microsoft Azure ML Studio**.  
+- 🧩 Tools: **MATLAB, Simulink, Keil, LabVIEW, CCS, MPLAB, VS Code, Jupyter, GitHub**.  
+- 📈 Passionate about **AI for automation, predictive maintenance, and smart industrial systems**.  
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-002244?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Engineering & Design**
+<p>
+  <img src="https://img.shields.io/badge/EPLAN-EE0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Schneider%20Electric-00B140?style=for-the-badge&logo=schneider-electric&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLC%20Programming-217346?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HMI%20Systems-555555?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Data Science & AI**
+<p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-0071C5?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ Skills & Tools
-
-### 🔧 **Embedded Systems & Automation**
-- **Languages:** C, C++, Python  
-- **MCUs/Processors:** ARM Cortex, STM32, AVR, Arduino  
-- **RTOS:** FreeRTOS  
-- **Protocols:** I2C, SPI, UART, CAN, TCP/IP, MQTT, Bluetooth, Zigbee  
-- **Automation Systems:** PLC, HMI, Control & Protection Panels  
-- **Tools:** EPLAN, Easy Prisma, Ecodial, MATLAB, Simulink, Keil, Eclipse, LabVIEW, CCS, MPLAB  
-- **Hardware:** PCB Design, Signal Processing, Testing & Debugging (Oscilloscope, Logic Analyzer, JTAG)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrmamdohmahmod115-art&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrmamdohmahmod115-art&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-### 🤖 **AI, Machine Learning & Data Science**
-- **Core Concepts:** Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning  
-- **Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, OpenCV, Hugging Face  
-- **Data Science & Analytics:** EDA, Feature Engineering, Statistical Modeling, Predictive Analytics, A/B Testing  
-- **MLOps & Deployment:** MLflow, Docker, Kubernetes, FastAPI, Flask, Airflow, CI/CD, Model Monitoring  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Hadoop, Spark  
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
-- **Cloud:** AWS, Google Cloud, Microsoft Azure  
-- **Collaboration:** Git, GitHub, Jupyter, VS Code, Agile/Scrum  
+### 🎵 Spotify (for aesthetic effect)
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="50%"/>
+</p>
 
 ---
 
-### 🧠 Currently Working On:
-- Developing **smart automation systems** with integrated **AI-driven decision logic**
-- Enhancing **embedded edge intelligence** for IoT & control networks
-- Exploring **advanced predictive analytics and reinforcement learning**
+### 📫 Contact Me
+<p align="center">
+  <a href="mailto:amrmamdohmahmod115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amr-mamdoh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/amrmamdohmahmod115-art"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🧰 Tools I Use
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0095D5?style=flat)
-![EPLAN](https://img.shields.io/badge/EPLAN-red?style=flat)
-![Easy Prisma](https://img.shields.io/badge/Easy%20Prisma-blue?style=flat)
-![Ecodial](https://img.shields.io/badge/Ecodial-green?style=flat)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 💻 Code Snippet
-```c
-// Embedded-ML Hybrid Engineer
-struct AmrMamdoh {
-    char title[100] = "Embedded Systems & ML/Data Science Engineer";
-    char skills[6][50] = {"C/C++", "Python", "FreeRTOS", "TensorFlow", "PLC", "PCB Design"};
-    char passion[100] = "Building Intelligent Systems that Bridge Hardware and AI";
-};
+<div align="center">
+  <i>⭐ Inspired by creativity, powered by data, automation, and innovation.</i>
+</div>
